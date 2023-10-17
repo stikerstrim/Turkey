@@ -1,6 +1,6 @@
 {
-    "name": "vafler",
-    "description": "live.",
+    "name": "Dellirium",
+    "description": "for VATNIK.",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
